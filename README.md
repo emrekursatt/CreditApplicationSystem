@@ -12,7 +12,4 @@ and to simulate the reality I also made the ID numbers that end with odd digit I
 - if the user doesn't have applied, yet we can apply from the same button ,a window will pop up to make us do that
 - additionally we can change background_mode by clicking on the switcher at the Up_Right button
 
-the windows are like :
 
-![The main page](images/MainPageSorting.jpg)
-![The modals](images/pop_ups.png)
